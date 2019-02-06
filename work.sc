@@ -1,9 +1,7 @@
 import scala.io.Source
+import edu.holycross.shot.cite
 
 // Fun with Collections
-
-val myList = List("a","b","c")
-val myArray = Array("a","b","c")
 val myVector = Vector("a","b","c")
 
 
